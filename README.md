@@ -24,7 +24,7 @@ All user responses are stored for further analysis.
 
 ---
 
-## 👥 User Roles
+## User Roles
 
 ### Administrator
 - Full access to all features and resources.
@@ -36,7 +36,7 @@ All user responses are stored for further analysis.
 
 ---
 
-## 🔐 User Credentials
+## User Credentials
 
 - **Email:** Used as a unique identifier for login.
 - **Password:** Must be at least **3 characters** long.
